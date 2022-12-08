@@ -1,0 +1,39 @@
+
+.alert{
+    background-color: rgb(167, 114, 42);
+    color: white;
+    font-size: 18px;
+}
+.nav-link{
+    color: rgb(26, 24, 24) !important;
+}
+.nav-link:hover{
+    background-color: rgba(136, 98, 15, 0.788);
+    color: white !important;
+}
+
+.footerko{
+    background-color: rgb(167, 114, 42);
+}
+
+.regform{
+    background-color: rgba(255, 242, 226, 0.836) !important;
+    margin-left:100px;
+    margin-right:100px;
+    padding-left:50px;
+    padding-right:50px;
+    padding-bottom:80px;
+    padding-top:80px;
+    border-radius: 15px;
+    box-shadow: 2px 2px 15px rgba(0, 0, 0, 0.2);
+    margin-bottom:90px;
+}
+.reg{
+    background-color: rgba(255, 242, 226, 0.836);
+    padding-right:40px;
+    padding-left:40px;
+    padding-top:80px;
+    padding-bottom:61px;
+    border-radius: 15px;
+    
+}
